@@ -1,13 +1,4 @@
 <?php
-/**
- * @package Newsletter class
- *
- * @author TechArise Team
- *
- * @email  info@techarise.com
- *   
- */
-
 // include connection class
 include("DBConnection.php");
 // Event
