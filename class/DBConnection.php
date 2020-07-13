@@ -10,10 +10,10 @@
 
 // Database Connection
 class DBConnection {
-    private $_dbHostname = "localhost";
-    private $_dbName = "more";
-    private $_dbUsername = "more";
-    private $_dbPassword = "";
+    private $_dbHostname = "us-cdbr-east-02.cleardb.com";
+    private $_dbName = "heroku_196507e794e83db";
+    private $_dbUsername = "bbc79d93223d4a";
+    private $_dbPassword = "b91a5a0d";
     private $_con;
 
     public function __construct() {
