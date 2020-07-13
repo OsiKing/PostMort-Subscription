@@ -1,13 +1,4 @@
 <?php
-/**
- * @package DBConnection
- *
- * @author TechArise Team
- *
- * @email  info@techarise.com
- *   
- */
-
 // Database Connection
 class DBConnection {
     private $_dbHostname = "us-cdbr-east-02.cleardb.com";
